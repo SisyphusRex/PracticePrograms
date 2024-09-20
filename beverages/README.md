@@ -1,3 +1,5 @@
+This is an old version of my solution.  This version works but the logic and working parts are in user_interface.py rather than programs.  I have since moved the logic and instantiation out of UI to programs.
+
 # Assignment 1 - Review of Python Basic Concepts and Introduction to Git
 
 ## Author
