@@ -3,7 +3,7 @@ This is an old version of my solution.  This version works but the logic and wor
 # Assignment 1 - Review of Python Basic Concepts and Introduction to Git
 
 ## Author
-Theodore Walter Podewil
+SisyphusRex
 
 
 ## Description
